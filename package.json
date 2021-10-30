@@ -1,0 +1,32 @@
+{
+  "name": "rx-jsx",
+  "version": "0.0.0",
+  "description": "RxJS library for building user interfaces",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpark011/rx-jsx.git"
+  },
+  "keywords": [
+    "rxjs",
+    "ui",
+    "jsx",
+    "htm",
+    "vhtml",
+    "react-like",
+    "rx-jsx"
+  ],
+  "author": "Jay Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpark011/rx-jsx/issues"
+  },
+  "homepage": "https://github.com/jpark011/rx-jsx#readme",
+  "dependencies": {
+    "htm": "^3.1.0",
+    "rxjs": "^7.4.0"
+  }
+}
