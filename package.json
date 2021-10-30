@@ -1,5 +1,5 @@
 {
-  "name": "rx-jsx",
+  "name": "rxjs-dom",
   "version": "0.0.2",
   "description": "RxJS library for building user interfaces",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jpark011/rx-jsx.git"
+    "url": "git+https://github.com/jpark011/rx-dom.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
@@ -20,14 +20,14 @@
     "htm",
     "vhtml",
     "react-like",
-    "rx-jsx"
+    "rx-dom"
   ],
   "author": "Jay Park",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jpark011/rx-jsx/issues"
+    "url": "https://github.com/jpark011/rx-dom/issues"
   },
-  "homepage": "https://github.com/jpark011/rx-jsx#readme",
+  "homepage": "https://github.com/jpark011/rx-dom#readme",
   "dependencies": {
     "htm": "^3.1.0",
     "rxjs": "^7.4.0"
